@@ -1,0 +1,19 @@
+# Встроенные файлы Android Studio / IntelliJ
+*.iml
+.idea/
+
+# Файлы Gradle
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Локальные настройки (путь к SDK на вашем компьютере)
+local.properties
+
+# Системные файлы (macOS)
+.DS_Store
+
+# Логи и временные файлы
+*.log
